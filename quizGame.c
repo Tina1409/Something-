@@ -18,8 +18,8 @@ int main(){
 		printf("The game has started\n\n");	
 	}
 	else if(i==0){
-		break;
 		printf("The game has ended\n\n");
+		break;
 	}
 	else{
 		printf("Invalid \n\n");
